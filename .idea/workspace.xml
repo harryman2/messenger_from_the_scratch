@@ -45,6 +45,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="385" y="7" key="CommitChangelistDialog2" timestamp="1597220328777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597220328777" />
     <state x="579" y="328" key="Github.CreateGistDialog" timestamp="1597176051135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -57,9 +61,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="453" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597220044262" />
-    <state x="566" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597175893897">
+    <state x="566" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597220339690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="566" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1597175893897" />
+    <state x="566" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1597220339690" />
   </component>
 </project>
