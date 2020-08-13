@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5146855c-503e-4cea-b6ea-b66f22ff0fbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/Assets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/Palette.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/ConversationPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/ConversationPageList.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/ChatAppBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/ChatItemWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/ChatListWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/InputWidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,18 +22,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_30" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1fxyfqqW4bS7BsBBejkaLT45tDP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -42,7 +63,20 @@
       <option name="presentableId" value="Default" />
       <updated>1597174144491</updated>
     </task>
+    <task id="LOCAL-00001" summary="yawa">
+      <created>1597220330411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597220330412</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="yawa" />
+    <option name="LAST_COMMIT_MESSAGE" value="yawa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="385" y="7" key="CommitChangelistDialog2" timestamp="1597220328777">
