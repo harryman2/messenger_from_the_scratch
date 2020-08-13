@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:messenger_from_the_scratch/widgets/ChatAppBar.dart';
+import 'package:messenger_from_the_scratch/widgets/ChatListWidget.dart';
+import 'package:messenger_from_the_scratch/widgets/InputWidget.dart';
 
 class ConversationPage extends StatefulWidget {
   @override
@@ -16,8 +18,8 @@ class _ConversationPageState extends State<ConversationPage> {
           children: [
             Column(
               children: [
-//                ChatListWidget(),
-//                InputWidget()
+                ChatListWidget(),
+                InputWidget()
               ],
             ),
           ],
