@@ -2,54 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5146855c-503e-4cea-b6ea-b66f22ff0fbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/android/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle_______build_app_intermediates_flutter_debug_libs_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_java8_2_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_arm64_v8a_debug_1_0_0_c8e3b9485386425213e2973126d6f57e7ed83c54_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_armeabi_v7a_debug_1_0_0_c8e3b9485386425213e2973126d6f57e7ed83c54_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_flutter_embedding_debug_1_0_0_c8e3b9485386425213e2973126d6f57e7ed83c54_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_x86_64_debug_1_0_0_c8e3b9485386425213e2973126d6f57e7ed83c54_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__io_flutter_x86_debug_1_0_0_c8e3b9485386425213e2973126d6f57e7ed83c54_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_50_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_50_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_50_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/modules/android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/modules/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings_aar.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/attachements/AttachmentsBloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/attachements/AttachmentsEvent.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/attachements/AttachmentsState.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/attachements/Bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/authentication/AuthenticationBloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/authentication/AuthenticationEvent.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/authentication/AuthenticationState.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/authentication/Bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/chats/Bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/chats/ChatBloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/chats/ChatEvent.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/chats/ChatState.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/config/Bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/config/ConfigBloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/config/ConfigEvent.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/config/ConfigState.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/contacts/Bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/contacts/ContactsBloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/contacts/ContactsEvent.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/contacts/ContactsState.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/home/Bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/home/HomeBloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/home/HomeEvent.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/home/HomeState.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/Constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/Decorations.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/Paths.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/Styles.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/Themes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/Transitions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/Chat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/Contact.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/Conversation.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/Message.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/User.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/VideoWrapper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/AttachmentPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/ContactListPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/ConversationPageSlide.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/HomePage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/RegisterPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/SettingsPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/pages/SingleConversationPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/providers/AuthenticationProvider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/providers/BaseProvider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/providers/ChatProvider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/providers/StorageProvider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/providers/UserDataProvider.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/repositories/AuthenticationRepository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/repositories/BaseRepository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/repositories/ChatRepository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/repositories/StorageRepository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/repositories/UserDataRepository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/Exceptions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/SharedObjects.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/Validators.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils/VideoThumbnail.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/BottomSheetFixed.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/ChatRowWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/CircleIndicator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/ContactRowWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/ConversationBottomSheet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/ConversationListWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/GradientFab.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/GradientSnackBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/ImageFullScreenWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/NavigationPillWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/NumberPicker.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/QuickScrollBar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/VideoPlayerWidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/messenger_from_the_scratch/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/messenger_from_the_scratch/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/messenger_from_the_scratch_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/messenger_from_the_scratch_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config/Assets.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/config/Assets.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config/Palette.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/config/Palette.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/pages/ConversationPage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/ConversationPage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/ChatAppBar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/ChatAppBar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/ChatItemWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/ChatItemWidget.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/widgets/ChatListWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/ChatListWidget.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/widgets/InputWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/InputWidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +107,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Script" />
         <option value="Dart File" />
       </list>
     </option>
@@ -79,8 +127,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -113,32 +163,64 @@
       <option name="project" value="LOCAL" />
       <updated>1597344194730</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="configured firebase">
+      <created>1597347128439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597347128439</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="yawa" />
     <MESSAGE value="adding intl package" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding intl package" />
+    <MESSAGE value="configured firebase" />
+    <option name="LAST_COMMIT_MESSAGE" value="configured firebase" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="7" key="CommitChangelistDialog2" timestamp="1597347099310">
+    <state x="582" y="325" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1597361388599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="385" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597347099310" />
+    <state x="582" y="325" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1597361388599" />
+    <state x="432" y="362" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597349984979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="432" y="362" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1597349984979" />
+    <state x="385" y="7" key="CommitChangelistDialog2" timestamp="1597347124844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597347124844" />
     <state x="579" y="328" key="Github.CreateGistDialog" timestamp="1597176051135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="579" y="328" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1597176051135" />
+    <state width="1340" height="194" key="GridCell.Tab.0.bottom" timestamp="1597365199282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597365199282" />
+    <state width="1340" height="194" key="GridCell.Tab.0.center" timestamp="1597365199282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597365199282" />
+    <state width="1340" height="194" key="GridCell.Tab.0.left" timestamp="1597365199282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597365199282" />
+    <state width="1340" height="194" key="GridCell.Tab.0.right" timestamp="1597365199282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597365199282" />
     <state x="237" y="0" key="SettingsEditor" timestamp="1597347053128">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="237" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597347053128" />
-    <state x="453" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1597347055684">
+    <state x="453" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1597365326344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="453" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597347055684" />
+    <state x="453" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597365326344" />
     <state x="566" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597220339690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
